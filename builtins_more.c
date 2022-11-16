@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * builtin_exit - exit of the program with the status
