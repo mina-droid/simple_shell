@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
 * _getline - read one line from the prompt.
