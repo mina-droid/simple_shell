@@ -1,4 +1,4 @@
-#include "shell.h"
+#include "main.h"
 
 /**
  * free_recurrent_data - free the fields needed each loop
