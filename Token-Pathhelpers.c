@@ -1,10 +1,10 @@
-#include "holberton.h"
+#include "main.h"
 /**
- * tokenize - creates array of tokens based on user string
- * @buffer: pointer to user string
- *
- * Return: pointer to array of user strings
- */
+* tokenize - creates array of tokens based on user string
+* @buffer: pointer to user string
+*
+* Return: pointer to array of user strings
+*/
 char **tokenize(char *buffer)
 {
 char *token;
